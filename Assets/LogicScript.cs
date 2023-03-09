@@ -9,6 +9,8 @@ public class LogicScript : MonoBehaviour
     public int playerScore;
     public Text scoreText;
     public GameObject gameOverScreen;
+    public AudioSource successSFX;
+    public AudioClip successClip;
     public bool gameIsRunning = true;
 
     [ContextMenu("Increase Score")]
@@ -18,6 +20,7 @@ public class LogicScript : MonoBehaviour
         {
             playerScore += scoreToAdd;
             scoreText.text = playerScore.ToString();
+            successSFX.PlayOneShot(successClip);
         }
     }
 
