@@ -26,6 +26,7 @@ While building this project I learned to:
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
@@ -66,5 +67,11 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 ## Contact
 
 Mateo Wallace - [GitHub](https://github.com/Mateo-Wallace) - [Email](mailto:mateo.t.wallace@gmail.com) - [LinkedIn](https://www.linkedin.com/in/mateo-wallace/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgements
+
+[Game Maker's Toolkit - The Unity Tutorial For Complete Beginners](https://www.youtube.com/watch?v=XtQMytORBmM)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
